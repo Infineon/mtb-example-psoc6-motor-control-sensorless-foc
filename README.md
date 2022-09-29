@@ -1,3 +1,4 @@
+**This repository is deprecated**
 # PSoC&trade; 6 MCU: Sensorless field-oriented motor control (FOC)
 
 The code example is built to demonstrate the sensorless FOC motor control solution with PSoC&trade; 6 device, which is intended for those who want to get familiar with sensorless FOC permanent magnet synchronous motor (PMSM) motor control and also who are interested in PSoC&trade; 6 devices.
